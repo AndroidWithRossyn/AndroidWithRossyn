@@ -8,9 +8,9 @@ Hi there 👋</h1>
 
 - 💬 **JAVA & KOTLIN**
 
-- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
-&
-<a href="https://t.me/banrossyn">Telegram</a>. 
+- *We provide reskin service of java android code at very low cost*
+
+- ⚡  If You want to join us than message on <a href="https://wa.me/+919694260426/">Whatsapp</a> , <a href="https://t.me/banrossyn">Telegram</a>  & <a href="banrossyn@gmail.com">Mail</a>.
 
 > Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
 # 
@@ -43,7 +43,7 @@ Hi there 👋</h1>
 <ul style="list-style-type: circle;">
 <li>InStory : Post &amp; Story Saver</li>
 </ul>
-<a href="https://play.google.com/store/apps/details?id=com.banrossyn.storydownloader"><img src="https://play-lh.googleusercontent.com/DjcK-Pc16a_i6cvk2snjyHyT2twaIA3iqOIqBxX0uUwY09hvxb-0k6w02ufoY8Clxg=w2560-h1440" /></a></td>
+<a href="https://play.google.com/store/apps/details?id=com.banrossyn.storydownloader"><img src="https://user-images.githubusercontent.com/118904953/207776555-89d638af-8b27-4483-9c2c-124c38b9da15.png" /></a></td>
 
 
 </tr>
