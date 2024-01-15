@@ -17,6 +17,10 @@ Hi there 👋</h1>
 
 <p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love on Playstore</strong></p>
 
+## NOTE THAT: All these projects are uploaded for learning purpose. 
+Some of the codes of these projects were officially purchased and some were open source projects on which I worked and shared them on GitHub for people's knowledge and understanding. 
+
+(Some projects have also been uploaded for free on other websites. If you are the owner of the project then we respect you. Contact us and request removal of any project.)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
