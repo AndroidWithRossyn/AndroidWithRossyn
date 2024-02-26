@@ -20,9 +20,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
 
 
 ## 
@@ -78,3 +76,6 @@ Note: `-- Everything is licensed` you can't Publish any Source code without perm
 
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
