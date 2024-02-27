@@ -1,27 +1,17 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <h3 align="center">@Omprakash :: Android Developer</h3>
+<h4 align="center">There is always one more bug to fix.</h4>
 
 <p align="center">
- 
- ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/AndroidWithRossyn)
-![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Joined-3 Years Ago-28a8ea"></a>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndroidWithRossyn&theme=github-dark-dimmed&custom_title=AndroidWithRossyn%20Activity%20Graph&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 </p>
 
-
-
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1" />
 </p>
-
-
-
-
-
 
 ## 
 
@@ -48,8 +38,6 @@
 ###
 
 
-
-
 <div align="center">
 
 [![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AndroidWithRossyn?cardType=octocat&theme=github-dark&preferLogin=false&Ring=DDDDDD)](https://git.io/awesome-stats-card)
@@ -67,6 +55,9 @@ Note: `-- Everything is licensed` you can't Publish any Source code without perm
 
 *We provide reskin service of java & Kotlin android code at very low cost*
 
+ ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/AndroidWithRossyn)
+![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Joined-3 Years Ago-28a8ea"></a>
 <a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
 <a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
 <a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
