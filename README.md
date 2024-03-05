@@ -14,12 +14,12 @@ Note: `-- Everything is licensed` you can't Publish any Source code without perm
 
  ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/AndroidWithRossyn)
 ![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Joined-3 Years Ago-28a8ea"></a>
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
-<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
-<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Joined-3 Years Ago-e5decf"></a>
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-0088cc"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-25d366"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-0A66C2"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-34A853"></a>
+<a href="https://api.whatsapp.com/send?phone=+919694260426&text=Hello%20developers%20of%20Rossyn,%20I%20would%20like%20to%20become%20a%20tester%20of%20the%20new%20version%20of%20Your%20Products."><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
 
 </div>
 
@@ -44,35 +44,29 @@ Note: `-- Everything is licensed` you can't Publish any Source code without perm
 </div>
 
 ## 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1" />
-</p>
-
-
-
-
-
-###
-
 
 <div align="center">
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndroidWithRossyn&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=androidwithrossyn&theme=tokyonight&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndroidWithRossyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="230" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndroidWithRossyn&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&border_radius=20&theme=tokyonight&hide_border=false&order=2" height="230" alt="languages graph"  />
   
 
 </div>
 
 <p align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndroidWithRossyn&theme=github-dark-dimmed&custom_title=AndroidWithRossyn%20Activity%20Graph&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
+</p>
 
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=7240c8&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 </p>
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=1980&section=footer"/>
 </p>
