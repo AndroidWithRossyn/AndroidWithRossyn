@@ -6,7 +6,6 @@
 
 
 ---
-![Talk to us](https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/b15613d0-1762-4b1b-ad01-6868f883e63d)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
@@ -131,9 +130,6 @@
 
 
 <p align="left">
-<a href="https://github.com/AndroidWithRossyn/My-Top-Android-Projects"><img width="280" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AndroidWithRossyn&repo=My-Top-Android-Projects&theme=react&bg_color=1F222E&title_color=4C88D4&hide_border=true&icon_color=fffff&show_icons=true" alt="readme-typing-svg"></a>
-
-
 <a href="https://github.com/AndroidWithRossyn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
 </p>
