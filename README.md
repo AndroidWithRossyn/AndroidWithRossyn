@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Rossyn</h2>
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
 </p>
 
 
@@ -30,7 +30,8 @@
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 <a href="https://twitter.com/banrossyn"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?logo=Twitter&logoColor=white"></a>
 <a href="https://www.threads.net/@androidwithrossyn"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?logo=Threads&logoColor=white"></a>
-<a href=https://www.instagram.com/androidwithrossyn/><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a><a href="https://www.facebook.com/AndroidWithRossyn/"><img alt="" src="https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=white"></a>
+<a href=https://www.instagram.com/androidwithrossyn/><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://www.facebook.com/AndroidWithRossyn/"><img alt="" src="https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=white"></a>
 <a href="https://medium.com/@banrossyn"><img alt="" src="https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white"></a>
 
 </div>
@@ -38,7 +39,7 @@
 
 
 <details open> 
-<summary><h2>👨‍💻 Programming , Markup Languages, Softwares, Databases Frameworks, Libraries and Tools</h2></summary>
+<summary><h3 style="color: #1E90FF; font-family: Roboto, sans-serif;">👨‍💻 Programming , Markup Languages, Softwares, Databases Frameworks, Libraries and Tools</h3></summary>
 <div align="left">  
 
 <a href="#"><img alt="JAVA"
@@ -110,17 +111,17 @@
 ---
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndroidWithRossyn&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndroidWithRossyn&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidWithRossyn&theme=transparent&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndroidWithRossyn&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndroidWithRossyn&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndroidWithRossyn&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndroidWithRossyn&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidWithRossyn&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndroidWithRossyn&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndroidWithRossyn&theme=github_dark)
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=7240c8&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+<span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=1980&section=footer"/>
@@ -138,3 +139,4 @@
 
 ## 💰 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/banrossyn) 
+
