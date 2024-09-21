@@ -22,20 +22,14 @@
 <div align="start">
 
 ![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
-<a href="https://api.whatsapp.com/send?phone=+919694260426&text=Hello%20developers%20of%20Rossyn,%20I%20would%20like%20to%20become%20a%20tester%20of%20the%20new%20version%20of%20Your%20Products."><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
+
 </div>
 
 
 <div align="start">
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
+
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-<a href="https://twitter.com/banrossyn"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?logo=Twitter&logoColor=white"></a>
-<a href="https://www.threads.net/@androidwithrossyn"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?logo=Threads&logoColor=white"></a>
-<a href=https://www.instagram.com/androidwithrossyn/><img alt="insta" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/AndroidWithRossyn/"><img alt="" src="https://img.shields.io/badge/Facebook-0866FF.svg?logo=Facebook&logoColor=white"></a>
-<a href="https://medium.com/@banrossyn"><img alt="" src="https://img.shields.io/badge/Medium-000000.svg?logo=Medium&logoColor=white"></a>
+
 </div>
 
 
@@ -59,18 +53,11 @@
 </div>
 
 ---
-<p align="center">
-    <a href="https://wa.me/+919694260426/">
-      <img src="https://github.com/user-attachments/assets/f44cb470-d824-4faa-b183-64bba5b946fc" width="1000" />
-    </a>
-  </p>
 
-  
+
 <p align="left">
 <a href="https://github.com/AndroidWithRossyn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
 </p>
 
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/banrossyn) 
 
