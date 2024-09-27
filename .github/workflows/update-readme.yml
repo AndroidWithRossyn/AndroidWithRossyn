@@ -1,0 +1,26 @@
+name: Refresh README with Recent GitHub Activity
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"  # Runs every 10 minutes
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build:
+    name: Auto-Update README with Latest Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3  # Check out the repo
+
+      - name: Update README with GitHub Activity
+        uses: AndroidWithRossyn/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.KEEP_IN }}  # Secure GitHub token for authentication
+        with:
+          COMMIT_MSG: "🚀 Auto-update: Keep up with the latest activity! ✨"  # commit message
+          MAX_LINES: 5  # Limit to 5 recent activities
+          COMMIT_NAME: GitHub Activity Bot  # Custom commit author name
