@@ -72,6 +72,11 @@
 
 ### :zap: Latest Medium Articles
 <!-- ARTICLES:START -->
+- [Coding a Serious Business Application](https://medium.com/@banrossyn/coding-a-serious-business-application-dd650189f672?source=rss-098e7dd463fb------2)
+- [Top 10 AI Tools for Developers in 2024](https://medium.com/@banrossyn/top-10-ai-tools-for-developers-in-2024-4657b74d6b58?source=rss-098e7dd463fb------2)
+- [10 Proven Strategies to Enhance Learning and Boost Retention](https://medium.com/@banrossyn/10-proven-strategies-to-enhance-learning-and-boost-retention-7d00fed8d189?source=rss-098e7dd463fb------2)
+- [Crack the Learning Code - 10 Secrets to Accelerate Your Understanding](https://medium.com/@banrossyn/crack-the-learning-code-10-secrets-to-accelerate-your-understanding-3389203a9454?source=rss-098e7dd463fb------2)
+- [Securing Android App with Encrypted SharedPreferences](https://medium.com/@banrossyn/securing-android-app-with-encrypted-sharedpreferences-8a5e98783485?source=rss-098e7dd463fb------2)
 <!-- ARTICLES:END -->
 ---
 
