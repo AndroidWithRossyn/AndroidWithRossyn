@@ -70,5 +70,8 @@
 5. 🚀 Published release [v1.0.0](https://github.com/Awesome-CustomView-Android/RainView-DropingDrawables/releases/tag/v1.0.0) in [Awesome-CustomView-Android/RainView-DropingDrawables](https://github.com/Awesome-CustomView-Android/RainView-DropingDrawables)
 <!--END_SECTION:activity-->
 
+### :zap: Latest Medium Articles
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
 ---
 
