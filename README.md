@@ -63,11 +63,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/dev-rossyn/AllVideoDownloader2023/issues/1) in [dev-rossyn/AllVideoDownloader2023](https://github.com/dev-rossyn/AllVideoDownloader2023)
-2. 🔒 Closed issue [#1](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping/issues/1) in [dev-rossyn/Find-My-Phone-By-Clapping](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping)
-3. ❗ Opened issue [#19](https://github.com/KishanViramgama/InstagramDownloader/issues/19) in [KishanViramgama/InstagramDownloader](https://github.com/KishanViramgama/InstagramDownloader)
-4. 🚀 Published release [v1.0.0](https://github.com/insta-downloader/Instagram-HD-Profile-Downloader/releases/tag/v1.0.0) in [insta-downloader/Instagram-HD-Profile-Downloader](https://github.com/insta-downloader/Instagram-HD-Profile-Downloader)
-5. 🚀 Published release [v1.0.0](https://github.com/Awesome-CustomView-Android/RainView-DropingDrawables/releases/tag/v1.0.0) in [Awesome-CustomView-Android/RainView-DropingDrawables](https://github.com/Awesome-CustomView-Android/RainView-DropingDrawables)
+1. 💪 Opened PR [#20](https://github.com/KishanViramgama/InstagramDownloader/pull/20) in [KishanViramgama/InstagramDownloader](https://github.com/KishanViramgama/InstagramDownloader)
+2. 🔒 Closed issue [#1](https://github.com/dev-rossyn/AllVideoDownloader2023/issues/1) in [dev-rossyn/AllVideoDownloader2023](https://github.com/dev-rossyn/AllVideoDownloader2023)
+3. 🔒 Closed issue [#1](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping/issues/1) in [dev-rossyn/Find-My-Phone-By-Clapping](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping)
+4. ❗ Opened issue [#19](https://github.com/KishanViramgama/InstagramDownloader/issues/19) in [KishanViramgama/InstagramDownloader](https://github.com/KishanViramgama/InstagramDownloader)
+5. 🚀 Published release [v1.0.0](https://github.com/insta-downloader/Instagram-HD-Profile-Downloader/releases/tag/v1.0.0) in [insta-downloader/Instagram-HD-Profile-Downloader](https://github.com/insta-downloader/Instagram-HD-Profile-Downloader)
 <!--END_SECTION:activity-->
 
 ### :zap: Latest Medium Articles
