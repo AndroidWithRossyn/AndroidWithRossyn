@@ -63,11 +63,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/AndroidWithRossyn/Instagram-Downloader/issues/1) in [AndroidWithRossyn/Instagram-Downloader](https://github.com/AndroidWithRossyn/Instagram-Downloader)
-2. 🔒 Closed issue [#3](https://github.com/AndroidWithRossyn/Instagram-Downloader/issues/3) in [AndroidWithRossyn/Instagram-Downloader](https://github.com/AndroidWithRossyn/Instagram-Downloader)
-3. 💪 Opened PR [#20](https://github.com/KishanViramgama/InstagramDownloader/pull/20) in [KishanViramgama/InstagramDownloader](https://github.com/KishanViramgama/InstagramDownloader)
-4. 🔒 Closed issue [#1](https://github.com/dev-rossyn/AllVideoDownloader2023/issues/1) in [dev-rossyn/AllVideoDownloader2023](https://github.com/dev-rossyn/AllVideoDownloader2023)
-5. 🔒 Closed issue [#1](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping/issues/1) in [dev-rossyn/Find-My-Phone-By-Clapping](https://github.com/dev-rossyn/Find-My-Phone-By-Clapping)
+1. 🔒 Closed issue [#2](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver/issues/2) in [AndroidWithRossyn/Whatsapp-Status-Saver](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
+2. 🔒 Closed issue [#1](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver/issues/1) in [AndroidWithRossyn/Whatsapp-Status-Saver](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
+3. 🔒 Closed issue [#1](https://github.com/AndroidWithRossyn/Instagram-Downloader/issues/1) in [AndroidWithRossyn/Instagram-Downloader](https://github.com/AndroidWithRossyn/Instagram-Downloader)
+4. 🔒 Closed issue [#3](https://github.com/AndroidWithRossyn/Instagram-Downloader/issues/3) in [AndroidWithRossyn/Instagram-Downloader](https://github.com/AndroidWithRossyn/Instagram-Downloader)
+5. 💪 Opened PR [#20](https://github.com/KishanViramgama/InstagramDownloader/pull/20) in [KishanViramgama/InstagramDownloader](https://github.com/KishanViramgama/InstagramDownloader)
 <!--END_SECTION:activity-->
 
 ### :zap: Latest Medium Articles
