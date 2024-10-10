@@ -3009,7 +3009,7 @@ textarea.w-select {
   z-index: 0;
   opacity: 0.2;
   mix-blend-mode: overlay;
-  background-image: url("../644af0299bc01254815ae442_noise-overlay-2.png");
+  background-image: url("../assets/images/noise-overlay-2.png");
   background-position: 0 0;
   background-size: 200px;
   display: block;
@@ -3245,7 +3245,7 @@ textarea.w-select {
   z-index: 2;
   opacity: 0.2;
   mix-blend-mode: overlay;
-  background-image: url("../644af0299bc01254815ae442_noise-overlay-2.png");
+  background-image: url("../assets/images/noise-overlay-2.png");
   background-size: 240px;
   position: absolute;
   inset: 0%;
@@ -4297,7 +4297,7 @@ textarea.w-select {
   z-index: 0;
   opacity: 0.25;
   mix-blend-mode: overlay;
-  background-image: url("../644af0299bc01254815ae442_noise-overlay-2.png");
+  background-image: url("../assets/images/noise-overlay-2.png");
   background-position: 0 0;
   background-size: 200px;
   position: absolute;
@@ -4522,6 +4522,42 @@ textarea.w-select {
   align-items: flex-start;
   display: flex;
 }
+
+.tech-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  gap: 15px; 
+}
+
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: 40px;
+  border: 2px solid #333; 
+  border-radius: 25px; 
+  padding: 7px 10px;
+  text-decoration: none; 
+  transition: border-color 0.5s ease; 
+  background-color: transparent; 
+}
+
+
+.logo-container img {
+  max-width: auto;
+  max-height: auto;
+  object-fit: contain;
+}
+
+
+.logo-container:hover {
+  border-color: #444;
+  transform: scale(1.1); 
+}
+
 
 .friend-name-role {
   grid-row-gap: 6px;
@@ -7790,53 +7826,4 @@ textarea.w-select {
   font-display: swap;
 }
 
-/* Container for all logos */
-.tech-logos {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center; /* Center align the logos */
-  gap: 15px; /* Space between logos */
-}
 
-/* Style for individual logo containers */
-.logo-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: auto;
-  height: 40px;
-  border: 2px solid #333; /* Add a solid border */
-  border-radius: 25px; /* Fully round borders */
-  padding: 7px 10px;
-  text-decoration: none; /* Remove underline from links */
-  transition: border-color 0.5s ease; /* Smooth transition for border */
-  background-color: transparent; /* Ensure background is transparent */
-}
-
-/* Image styling */
-.logo-container img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-}
-
-/* Hover effect for logo containers */
-.logo-container:hover {
-  border-color: #444; /* Change border color on hover */
-}
-
-
-.tech-logos a {
-  display: inline-block;
-  margin: 2px;
-}
-
-.tech-logos img {
-  width: auto;
-  height: auto;
-  transition: transform 0.5s ease; 
-}
-
-.tech-logos img:hover {
-  transform: scale(1.1); 
-}
