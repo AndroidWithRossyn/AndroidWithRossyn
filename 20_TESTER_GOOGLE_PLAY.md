@@ -12,6 +12,13 @@ Explore early access to new Android apps and contribute your expertise by testin
 <a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 
+
+</div>
+
+<div align="start">
+  
+<a href="https://groups.google.com/g/android-testers-community"><img src="https://github.com/user-attachments/assets/29768b67-b6d0-405d-a7ea-cc88cce36f15"></a>
+
 </div>
 
 ### Benefits of Joining:
