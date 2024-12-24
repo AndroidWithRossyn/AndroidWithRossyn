@@ -1,0 +1,39 @@
+name: Monitor GitHub Events
+
+on:
+  push: # Trigger on commits
+    branches:
+      - main
+  watch: # Trigger on stars
+    types:
+      - started
+  fork: # Trigger on forks
+  pull_request: # Trigger on PR creation
+    types:
+      - opened
+      - closed
+      - merged
+  issue_comment: # Trigger on issue comments
+    types:
+      - created
+      - edited
+  schedule: # Trigger every 10 minutes
+    - cron: "*/10 * * * *" # Runs every 10 minutes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Update Last Active Block
+      run: |
+        LAST_ACTIVE="Last Active: $(date '+%I:%M %p %d %b')"
+        sed -i "/<!-- START-LASTACTIVE -->/,/<!-- END-LASTACTIVE -->/!b;//!d;s|.*|$LAST_ACTIVE|" README.md
+        git config --global user.name "AndroidWithRossyn"
+        git config --global user.email "omaprakash2063@gmail.com"
+        git add README.md
+        git commit -m "Last Active time ${{ github.event_name }}"
+        git push || echo "No changes to commit"
