@@ -25,11 +25,10 @@
 
 </div>
 
-<div align="start">
-  
-<a href="https://groups.google.com/g/android-testers-community"><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
+<!-- START-LASTACTIVE -->
+Last Active: PLACEHOLDER
+<!-- END-LASTACTIVE -->
 
-</div>
 <div align="start">
   
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
