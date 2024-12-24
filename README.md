@@ -25,9 +25,8 @@
 
 </div>
 
-<!-- START-LASTACTIVE -->
-Last Active: PLACEHOLDER
-<!-- END-LASTACTIVE -->
+Last Active: 02:34 PM 24 Dec
+Last Active: 02:34 PM 24 Dec
 
 <div align="start">
   
