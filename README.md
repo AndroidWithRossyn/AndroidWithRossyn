@@ -25,8 +25,9 @@
 
 </div>
 
-Last Active: 02:34 PM 24 Dec
-Last Active: 02:34 PM 24 Dec
+<!-- START-LASTACTIVE -->
+Last Active: Not yet updated
+<!-- END-LASTACTIVE -->
 
 <div align="start">
   
