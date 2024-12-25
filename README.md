@@ -20,9 +20,8 @@
 
 
 <div align="start">
-
+  
 ![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
-
 </div>
 
 <div align="start">
