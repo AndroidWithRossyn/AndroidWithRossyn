@@ -71,7 +71,9 @@
 
 ### :zap: Latest Medium Articles
 <!-- ARTICLES:START -->
-
+- [Securing Android App with Encrypted SharedPreferences](https://rohitrajkhorwal.medium.com/securing-android-app-with-encrypted-sharedpreferences-13542ff9ee91?source=rss-40883ee5aa3e------2)
+- [Video Downloader & Story Saver](https://rohitrajkhorwal.medium.com/video-downloader-story-saver-0bc360e8775e?source=rss-40883ee5aa3e------2)
+- [GeoClick: Gps Map](https://rohitrajkhorwal.medium.com/geoclick-gps-map-771f91a215b1?source=rss-40883ee5aa3e------2)
 <!-- ARTICLES:END -->
 ---
 
