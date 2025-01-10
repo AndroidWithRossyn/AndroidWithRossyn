@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.2.5
         with:
           comment_tag_name: "ARTICLES"
-          feed_list: "https://medium.com/feed/@banrossyn"
+          feed_list: "https://medium.com/feed/@rohitrajkhorwal"
