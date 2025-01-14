@@ -71,11 +71,11 @@
 
 ### :zap: Latest Medium Articles
 <!-- ARTICLES:START -->
+- [Why You Should Use Dokka 2.0.0 for Your Android Project Documentation](https://rohitrajkhorwal.medium.com/why-you-should-use-dokka-2-0-0-for-your-android-project-documentation-5d8f931a38dd?source=rss-40883ee5aa3e------2)
 - [Master Android Crash Handling: A Complete Guide to Implementing GlobalCrashHandler](https://rohitrajkhorwal.medium.com/android-crash-handling-c6252b6cbd2b?source=rss-40883ee5aa3e------2)
 - [Android Toast Utilities: A Better Way to Handle Toast Messages](https://rohitrajkhorwal.medium.com/android-toast-utilities-a-better-way-to-handle-toast-messages-rohitrajkhorwal-e16f555238ac?source=rss-40883ee5aa3e------2)
 - [Securing Android App with Encrypted SharedPreferences](https://rohitrajkhorwal.medium.com/securing-android-app-with-encrypted-sharedpreferences-13542ff9ee91?source=rss-40883ee5aa3e------2)
 - [Video Downloader & Story Saver](https://rohitrajkhorwal.medium.com/video-downloader-story-saver-0bc360e8775e?source=rss-40883ee5aa3e------2)
-- [GeoClick: Gps Map](https://rohitrajkhorwal.medium.com/geoclick-gps-map-771f91a215b1?source=rss-40883ee5aa3e------2)
 <!-- ARTICLES:END -->
 ---
 
