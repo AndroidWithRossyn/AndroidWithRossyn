@@ -62,7 +62,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/joielechong/CountryCodePicker/issues/126#issuecomment-2383421576) in [joielechong/CountryCodePicker](https://github.com/joielechong/CountryCodePicker)
+1. 🚀 Published release [Migrate to ViewModel, Dagger Hilt & Dokka Integration](https://github.com/AndroidWithRossyn/EasySMS-Permission/releases/tag/1.0.0.a1) in [AndroidWithRossyn/EasySMS-Permission](https://github.com/AndroidWithRossyn/EasySMS-Permission)
 2. 🔒 Closed issue [#2](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver/issues/2) in [AndroidWithRossyn/Whatsapp-Status-Saver](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
 3. 🔒 Closed issue [#1](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver/issues/1) in [AndroidWithRossyn/Whatsapp-Status-Saver](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
 4. 🔒 Closed issue [#1](https://github.com/AndroidWithRossyn/Instagram-Downloader/issues/1) in [AndroidWithRossyn/Instagram-Downloader](https://github.com/AndroidWithRossyn/Instagram-Downloader)
