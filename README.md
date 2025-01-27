@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.5](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.5) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-2. 🚀 Published release [1.0.4](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.4) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-3. 🚀 Published release [1.0.3](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.3) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-4. 🚀 Published release [1.0.2](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.2) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-5. 🚀 Published release [library to jitpack.io](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.1) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+1. 🚀 Published release [1.0.6](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.6) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+2. 🚀 Published release [1.0.5](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.5) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+3. 🚀 Published release [1.0.4](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.4) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+4. 🚀 Published release [1.0.3](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.3) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+5. 🚀 Published release [1.0.2](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.2) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
 <!--END_SECTION:activity-->
 
 ### :zap: Latest Medium Articles
