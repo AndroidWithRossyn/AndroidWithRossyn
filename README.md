@@ -28,7 +28,8 @@
   
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitraj.khorwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitrajkhorwal) 
-
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
 </div>
 
 
@@ -77,6 +78,7 @@
 - [Why You Should Use Dokka 2.0.0 for Your Android Project Documentation](https://rohitrajkhorwal.medium.com/why-you-should-use-dokka-2-0-0-for-your-android-project-documentation-5d8f931a38dd?source=rss-40883ee5aa3e------2)
 - [Master Android Crash Handling: A Complete Guide to Implementing GlobalCrashHandler](https://rohitrajkhorwal.medium.com/android-crash-handling-c6252b6cbd2b?source=rss-40883ee5aa3e------2)
 <!-- ARTICLES:END -->
+
 
 
 ### Get in touch for Premium Code
