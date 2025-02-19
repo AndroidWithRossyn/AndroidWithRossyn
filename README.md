@@ -80,6 +80,31 @@
 <!-- ARTICLES:END -->
 
 
+## ☕ Fuel My Code
+
+<div align="center">
+  <a href="https://www.paypal.com/paypalme/banrossyn">
+    <img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+   <a href="https://github.com/AndroidWithRossyn/AndroidWithRossyn/blob/main/donate/upi_scan.jpg?raw=true">
+    <img src="https://img.shields.io/badge/Support_via_UPI-4CAF50?style=for-the-badge&logo=google-pay&logoColor=white" alt="UPI"/>
+  </a>
+  <p><i>Your support transforms caffeine into code! ✨</i></p>
+  
+  <table>
+    <tr>
+      <td>🚀 Faster Updates</td>
+      <td>🔍 Better Documentation</td>
+      <td>🛠️ More Features</td>
+    </tr>
+  </table>
+  
+  <details>
+    <summary><b>Why Support?</b></summary>
+    <p>Every contribution helps me dedicate more time to creating high-quality open source Code. Your support directly translates to better software for everyone!</p>
+  </details>
+</div>
+
 
 ### Get in touch for Premium Code
 <table>
