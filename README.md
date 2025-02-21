@@ -63,7 +63,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.6](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.6) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
+1. 🚀 Published release [1.0.0](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game/releases/tag/1.0.0) in [AndroidWithRossyn/2048-Charm-Number-Puzzle-Game](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game)
 2. 🚀 Published release [1.0.5](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.5) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
 3. 🚀 Published release [1.0.4](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.4) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
 4. 🚀 Published release [1.0.3](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.3) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
