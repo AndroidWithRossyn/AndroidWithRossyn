@@ -7,16 +7,13 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
+<img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
-- 👨‍💻 **Computer Engineer** crafting digital solutions.
-- 🚀 Passionate about exploring and applying new technologies.
-- 📖 Committed to continuous learning and growth.
-- 🛠️ Enthusiastic about diverse projects.
-- 💼 Freelancing on **Upwork** & **Fiverr**, turning ideas into reality.
-- 👥 Open to collaborations—let’s create something great!
-- *Offering affordable reskin services for Java & Kotlin Android code.*
-
+- 👨‍💻 Building Android apps that help people every day.
+- 📖 Focused on learning and improving
+- 🛠️ Enjoy working on a variety of projects
+- 👥 Open to collaboration
+- 🔧 Offering services for Android Apps
 
 
 <div align="start">
@@ -33,7 +30,7 @@
 </div>
 
 
----
+
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndroidWithRossyn&theme=github_dark)
@@ -46,9 +43,6 @@
 </p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
-<span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
-  
-
 
 </div>
 
@@ -58,6 +52,8 @@
 <p align="left">
 <a href="https://github.com/AndroidWithRossyn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   
+<span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note: </b>My public work doesn’t fully reflect my experience or skill level. I share it to document what I’ve learned and to help others with useful resources. 
+My true work is in private repos.</span>  
 </p>
 
 ### :zap: Recent Activity
@@ -106,31 +102,16 @@
 </div>
 
 
-### Get in touch for Premium Code
-<table>
+### Get in Touch for Premium Code
 
-  <tbody>
-    <tr>
-      <td style="width: 50%; text-align: center;">
-        <ul style="list-style-type: circle;">
-          <li>Instagram Downloader Source Code</li>
-        </ul>
-        <a href="">
-          <img src="https://github.com/user-attachments/assets/d7eff666-3e9a-4fde-948f-a4a6f766af84" width="400" />
-        </a>
-      </td>
-      <td style="width: 50%; text-align: center;">
-        <ul style="list-style-type: circle;">
-          <li>GeoClick Source Code</li>
-        </ul>
-        <a href="">
-          <img src="https://github.com/user-attachments/assets/897125b0-0bf9-4e10-9399-a04eaa9f060f" width="400" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  
-  
-  
-</table>
+- [Instagram Downloader Source Code](https://github.com/AndroidWithRossyn/InstagramDownloader)
+- [GPS Map Camera Source Code](https://github.com/AndroidWithRossyn/Gps-Map-Camera-Location-on-Photo)
+- [Whatsapp Status Saver Source Code](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
+- [2048: Game](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game)
+- [Find My Phone](https://github.com/AndroidWithRossyn/Find-My-Phone-By-Clapping)
+- [PDF-Reader-Image-Compress](#)
+- [Image To Pdf](#)
+- [PDF-Reader](#)
+- [PDF-Converter](#)
+- & 48 more (private repo) ready to publish android java & kotin projects;
 
