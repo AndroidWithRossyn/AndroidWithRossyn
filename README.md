@@ -17,8 +17,9 @@
 
 
 <div align="start">
-  
-![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
+
+  ![](https://komarev.com/ghpvc/?username=AndroidWithRossyn&style=flat&color=brightgreen)
+
 </div>
 
 <div align="start">
