@@ -103,16 +103,3 @@ My true work is in private repos.</span>
 </div>
 
 
-### Get in Touch for Premium Code
-
-- [Instagram Downloader Source Code](https://github.com/AndroidWithRossyn/InstagramDownloader)
-- [GPS Map Camera Source Code](https://github.com/AndroidWithRossyn/Gps-Map-Camera-Location-on-Photo)
-- [Whatsapp Status Saver Source Code](https://github.com/AndroidWithRossyn/Whatsapp-Status-Saver)
-- [2048: Game](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game)
-- [Find My Phone](https://github.com/AndroidWithRossyn/Find-My-Phone-By-Clapping)
-- [PDF-Reader-Image-Compress](#)
-- [Image To Pdf](#)
-- [PDF-Reader](#)
-- [PDF-Converter](#)
-- & 48 more (private repo) ready to publish android java & kotin projects;
-
