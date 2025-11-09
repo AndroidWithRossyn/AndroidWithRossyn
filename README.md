@@ -77,30 +77,24 @@ My true work is in private repos.</span>
 <!-- ARTICLES:END -->
 
 
-## ☕ Fuel My Code
 
-<div align="center">
-  <a href="https://www.paypal.com/paypalme/banrossyn">
-    <img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-   <a href="https://github.com/AndroidWithRossyn/AndroidWithRossyn/blob/main/donate/upi_scan.jpg?raw=true">
-    <img src="https://img.shields.io/badge/Support_via_UPI-4CAF50?style=for-the-badge&logo=google-pay&logoColor=white" alt="UPI"/>
-  </a>
-  <p><i>Your support transforms caffeine into code! ✨</i></p>
-  
-  <table>
-    <tr>
-      <td>🚀 Faster Updates</td>
-      <td>🔍 Better Documentation</td>
-      <td>🛠️ More Features</td>
-    </tr>
-  </table>
-  
-  <details>
-    <summary><b>Why Support?</b></summary>
-    <p>Every contribution helps me dedicate more time to creating high-quality open source Code. Your support directly translates to better software for everyone!</p>
-  </details>
-</div>
+## 💎 Exclusive Sponsor Benefits
+Want to level up your Android development?  
+Sponsors get **exclusive access** to a private collection of **premium source codes** and **advanced app templates**.
 
-## 🚀 Looking for high-quality source code? 
-Get in touch for premium projects.
+These projects are ideal for learning, building apps faster, and exploring real-world codebases.
+
+🎁 **Sponsor Perks:**
+- Access to **exclusive premium project ZIPs** (CodeCanyon + other verified sources)  
+- Early access to new uploads  
+- Private support / guidance  
+
+👉 [Become a Sponsor](https://github.com/sponsors/AndroidWithRossyn)
+
+### 📱 **Premium Apps (Available on Play Store)**
+Check out my live apps — all these source codes are available for **sponsors or direct purchase**. ++ Source Code Availbe for Sell.
+
+| App Name | Play Store Link | Description |
+|-----------|-----------------|--------------|
+| 🚀 InSaver | [Play Store Link](https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader) | Premium Android App with modern UI |
+| 📷 GPS Map Camera | [Play Store Link](https://play.google.com/store/apps/details?id=com.sumino.geotagphoto.mapgpscamera.gpsvideo) | Real-time Overlay Lat-long Stamp 
