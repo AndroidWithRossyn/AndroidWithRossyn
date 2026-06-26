@@ -4,12 +4,8 @@ Explore early access to new Android apps and contribute your expertise by testin
 
 <div align="start">
 
-![pv](https://pageview.vercel.app/?github_user=AndroidWithRossyn)
-
 <a href="https://groups.google.com/g/android-testers-community"><img src="https://img.shields.io/badge/Become Tester-PlayStore Apps-red"></a>
 
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 
 

@@ -25,9 +25,8 @@
 <div align="start">
   
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitraj.khorwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitrajkhorwal) 
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) 
+
 </div>
 
 
@@ -56,26 +55,6 @@
 <span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note: </b>My public work doesn’t fully reflect my experience or skill level. I share it to document what I’ve learned and to help others with useful resources. 
 My true work is in private repos.</span>  
 </p>
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game/releases/tag/1.0.0) in [AndroidWithRossyn/2048-Charm-Number-Puzzle-Game](https://github.com/AndroidWithRossyn/2048-Charm-Number-Puzzle-Game)
-2. 🚀 Published release [1.0.5](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.5) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-3. 🚀 Published release [1.0.4](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.4) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-4. 🚀 Published release [1.0.3](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.3) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-5. 🚀 Published release [1.0.2](https://github.com/AndroidWithRossyn/easytoast/releases/tag/1.0.2) in [AndroidWithRossyn/easytoast](https://github.com/AndroidWithRossyn/easytoast)
-<!--END_SECTION:activity-->
-
-### :zap: Latest Medium Articles
-<!-- ARTICLES:START -->
-- [The 12 Principles I Personally Follow to Level Up Financially](https://rohitrajkhorwal.medium.com/the-12-principles-i-personally-follow-to-level-up-financially-5a45cfe1c7dc?source=rss-40883ee5aa3e------2)
-- [7 Financial Mistakes That Are Silently Drowning the Middle Class](https://rohitrajkhorwal.medium.com/7-financial-mistakes-that-are-silently-drowning-the-middle-class-53fab4575448?source=rss-40883ee5aa3e------2)
-- [Money Flows Towards Service and Value — Not Work and Time](https://rohitrajkhorwal.medium.com/money-flows-towards-service-and-value-not-work-and-time-b9ea95160970?source=rss-40883ee5aa3e------2)
-- [The 5 Biggest Financial Crashes in History — and What They All Have in Common](https://rohitrajkhorwal.medium.com/the-5-biggest-financial-crashes-in-history-and-what-they-all-have-in-common-2d87c29eae22?source=rss-40883ee5aa3e------2)
-- [15 Things Poor People Do That the Rich Don’t](https://rohitrajkhorwal.medium.com/15-things-poor-people-do-that-the-rich-dont-ad24458a59ca?source=rss-40883ee5aa3e------2)
-<!-- ARTICLES:END -->
-
 
 
 ## 💎 Exclusive Sponsor Benefits
